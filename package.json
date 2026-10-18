@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "node --watch src/server.js",
-    "node src/server.js",
+    "start": "node src/server.js"
     "db:init": "node src/db/init.js"
   },
   "dependencies": {
